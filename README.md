@@ -1,3 +1,3 @@
-simple pagination
+simple pagination 
 react+bootstrap
 
